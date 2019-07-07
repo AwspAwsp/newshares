@@ -1,0 +1,2 @@
+# newshares
+get shares news
